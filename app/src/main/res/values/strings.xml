@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoSearch</string>
+    <string name="app_title">Photo Search</string>
+
+    <string name="foundResults">Search Results for \"%1$s\"</string>
+    <string name="notFoundResults">No search Results for \"%1$s\"</string>
+</resources>
